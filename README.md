@@ -1,5 +1,9 @@
-# temperature-converter-web-application
-Sebuah website untuk menghitung konversi suhu dari beberapa satuan
-<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/85e6099a-a6a3-4262-a191-35c7c018c1d2" />
+## Temperature Converter Web Application
 
-Link web aplikasi: https://inkafm.github.io/web-converter-suhu/
+### Sebuah website untuk menghitung konversi suhu dari beberapa satuan mulai dari Celcius, Farenheit, Reamure, dan Kelvin
+<img width="1365" height="722" alt="image" src="https://github.com/user-attachments/assets/8aacaf0b-7b25-4700-96f5-db7f0570bd8a" />
+
+## Link web aplikasi
+```
+(https://inkafm.github.io/web-converter-suhu/)
+```
